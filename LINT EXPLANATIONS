@@ -1,0 +1,18 @@
+usability under Android was not changed as being index searchable by google is not neccessary for the purpose of this project
+
+Groovy
+--potentally confuding code construct - referencing a read only file, not necessary to the code itself. 
+--probable bugs -- result of new node is ignored - the style that this code is written is correct and performs it's function, analysis is 
+just expecting and equal sign where one is not neccessary
+
+Java
+--empty method - getter methods are present for testing purposes and are fine as empty methods. 
+--Same return value - suppressed as it's serving as a getter method once again for testing purposes
+--character state-- param not used - contructor for testing inputs
+--get current state -- not used -- used for testing purposes
+--dispose- gone in all but one or two places where it was a necessary and used method. 
+
+typos 
+
+- unfixed. The majority of "typos" are from asset titles which I find uneccesarry to change as they are still very clear regarding content,
+as well as a few variables or where it's expecting capitalization but capitalization is intentionally unused for distinction purposes. 
